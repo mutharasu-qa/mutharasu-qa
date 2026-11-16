@@ -1,12 +1,14 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=220&section=header&text=Mutharasu%20Muthu&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20QA%20Automation%20Engineer&descAlignY=55&descSize=20)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=220&section=header&text=Mutharasu%20Muthu&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20QA%20Automation%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=650&lines=Selenium+WebDriver+%7C+Java+%7C+Cucumber+BDD;Building+Scalable+Test+Automation+Frameworks;6%2B+Years+in+QA+Automation+Engineering;Open+to+Relocation+-+Chennai+%F0%9F%87%AE%F0%9F%87%B3)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=650&lines=Selenium+WebDriver+%7C+Java+%7C+Cucumber+BDD;Building+Scalable+Test+Automation+Frameworks;6%2B+Years+in+QA+Automation+Engineering;Open+to+Relocation+-+Chennai+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 
-![Views](https://komarev.com/ghpvc/?username=mutharasu-qa&label=Profile%20Views&color=00C9FF&style=for-the-badge)
-![Experience](https://img.shields.io/badge/Experience-6%2B%20Years-2C5364?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Chennai%2C%20India-0F2027?style=for-the-badge)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mutharasu-qa&label=Profile%20Views&color=00C9FF&style=for-the-badge" alt="views"/>
+  <img src="https://img.shields.io/badge/Experience-6%2B%20Years-2C5364?style=for-the-badge" alt="exp"/>
+  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-0F2027?style=for-the-badge" alt="location"/>
+</p>
 
 </div>
 
@@ -41,25 +43,27 @@ public class Mutharasu extends QAAutomationEngineer {
 ### 🛠️ Tech Stack
 
 <div align="center">
-
-![Skill Icons](https://skillicons.dev/icons?i=java,selenium,git,github,jenkins,maven,postman,vscode,eclipse,docker,aws,mysql&theme=dark)
+<img src="https://skillicons.dev/icons?i=java,selenium,git,github,jenkins,maven,postman,vscode,eclipse,docker,aws,mysql&theme=dark" />
+</div>
 
 <br>
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-F05032?style=for-the-badge)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![RestAssured](https://img.shields.io/badge/Rest%20Assured-2E8B57?style=for-the-badge)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
+<img src="https://img.shields.io/badge/TestNG-F05032?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Rest%20Assured-2E8B57?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
@@ -104,12 +108,12 @@ public class Mutharasu extends QAAutomationEngineer {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mutharasu-qa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00C9FF&icon_color=00C9FF)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mutharasu-qa&theme=tokyonight&hide_border=true&background=0F2027&ring=00C9FF&fire=00C9FF)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mutharasu-qa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00C9FF&icon_color=00C9FF"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mutharasu-qa&theme=tokyonight&hide_border=true&background=0F2027&ring=00C9FF&fire=00C9FF"/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mutharasu-qa&theme=tokyo-night&hide_border=true&bg_color=0F2027&color=00C9FF&line=00C9FF&point=ffffff)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mutharasu-qa&theme=tokyo-night&hide_border=true&bg_color=0F2027&color=00C9FF&line=00C9FF&point=ffffff" width="95%"/>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mutharasu-qa&theme=tokyonight&no-frame=true&row=1&column=6)
+<img src="https://github-profile-trophy.vercel.app/?username=mutharasu-qa&theme=tokyonight&no-frame=true&row=1&column=6" width="95%"/>
 
 </div>
 
@@ -119,10 +123,11 @@ public class Mutharasu extends QAAutomationEngineer {
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=mutharasu-qa&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00C9FF&icon_color=00C9FF)](https://github.com/mutharasu-qa/portfolio)
+<a href="https://github.com/mutharasu-qa/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mutharasu-qa&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00C9FF&icon_color=00C9FF" />
+</a>
 
-<br>
-
+<br><br>
 **🌐 [Click Here to View My Portfolio Website](https://mutharasu-qa.github.io/portfolio)**
 
 </div>
@@ -139,4 +144,4 @@ public class Mutharasu extends QAAutomationEngineer {
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:2C5364,100:0F2027&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
