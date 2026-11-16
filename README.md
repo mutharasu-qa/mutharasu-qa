@@ -108,12 +108,11 @@ public class Mutharasu extends QAAutomationEngineer {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mutharasu-qa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00C9FF&icon_color=00C9FF"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mutharasu-qa&theme=tokyonight&hide_border=true&background=0F2027&ring=00C9FF&fire=00C9FF"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mutharasu-qa&theme=tokyo-night&hide_border=true&bg_color=0F2027&color=00C9FF&line=00C9FF&point=ffffff" width="95%"/>
+<br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mutharasu-qa&theme=tokyonight&no-frame=true&row=1&column=6" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mutharasu-qa&theme=tokyo-night&hide_border=true&bg_color=0F2027&color=00C9FF&line=00C9FF&point=ffffff" width="95%"/>
 
 </div>
 
@@ -123,14 +122,13 @@ public class Mutharasu extends QAAutomationEngineer {
 
 <div align="center">
 
-<a href="https://github.com/mutharasu-qa/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mutharasu-qa&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00C9FF&icon_color=00C9FF" />
+<a href="https://mutharasu-qa.github.io/portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Click_Here_To_View_My_Portfolio-0F2027?style=for-the-badge&logo=googlechrome&logoColor=00C9FF" />
 </a>
 
-<br><br>
-**🌐 [Click Here to View My Portfolio Website](https://mutharasu-qa.github.io/portfolio)**
-
 </div>
+
+<br>
 
 ---
 
